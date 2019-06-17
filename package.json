@@ -1,0 +1,29 @@
+{
+  "name": "npm-practica01-matematicas",
+  "version": "1.0.0",
+  "description": "matematicas en npm y para npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredo09/npm-practica01-matematicas.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "matematicas",
+    "npm",
+    "suma",
+    "resta",
+    "division",
+    "multiplicacion"
+  ],
+  "author": "Alfredo Vazquez <fred_15@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fredo09/npm-practica01-matematicas/issues"
+  },
+  "homepage": "https://github.com/fredo09/npm-practica01-matematicas#readme"
+}
